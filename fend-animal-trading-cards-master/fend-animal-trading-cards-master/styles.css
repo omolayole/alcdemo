@@ -1,0 +1,26 @@
+/* add your CSS here */
+.fact {
+	font-style: italic;
+}
+.list {
+	font-weight: bold;
+}
+.items {
+	list-style-type: none;
+	padding-left: 0;
+} 
+.card {
+	border: 1px solid rgba(0,0,0,0.25);
+	width: 340px;
+	padding: 10px 10px;
+}
+.wrapper {
+	border: 1px solid rgba(0,0,0,0.25);
+	padding: 5px 10px 10px 10px;
+}
+.animal {
+	padding-bottom: 10px;
+}
+h3 {
+	margin-bottom: 0px;
+}
